@@ -8,6 +8,11 @@ http://www.piano-e-competition.com/ecompetition/midi_2006.asp
 http://www.piano-e-competition.com/ecompetition/midi_2008.asp
 http://www.piano-e-competition.com/ecompetition/midi_2009.asp
 http://www.piano-e-competition.com/ecompetition/midi_20011.asp
+http://www.piano-e-competition.com/midi_2013.asp
+http://www.piano-e-competition.com/midi_2014.asp
+http://www.piano-e-competition.com/midi_2015.asp
+http://www.piano-e-competition.com/midi_2017.asp
+http://www.piano-e-competition.com/midi_2018.asp
 '
 mkdir -p $dir
 for page in $pages; do
